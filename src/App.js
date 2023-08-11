@@ -9,7 +9,11 @@ export default function App() {
       <footer>
         {" "}
         Coded by Thea Sullivan and available on{" "}
-        <a href="https://github.com/TheacSully" target="_blank">
+        <a
+          href="https://github.com/TheacSully"
+          target="_blank"
+          rel="noreferrer"
+        >
           Github
         </a>
       </footer>

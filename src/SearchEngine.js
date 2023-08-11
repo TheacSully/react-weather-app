@@ -45,6 +45,10 @@ export default function SearchEngine() {
         <ul>
           <li>
             {" "}
+            <strong>{city}</strong>{" "}
+          </li>
+          <li>
+            {" "}
             <strong>Temperature:</strong> {Math.round(text.Temperature)}°C{" "}
           </li>
           <li>
